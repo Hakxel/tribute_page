@@ -37,12 +37,11 @@ h2 {
 
 .jumbotron {
   border: 1px solid white;
-  margin-top: auto;
-  margin-right: 100px;
-  margin-left: 100px;
+  margin: 0 auto;
+  width: 600px;
   padding: 5px;
   background-color: rgb(10, 2, 20);
-  display: inline-block;
+  display: block;
 
 
 
