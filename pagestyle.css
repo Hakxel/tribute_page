@@ -37,19 +37,25 @@ h2 {
 
 .jumbotron {
   border: 1px solid white;
-  margin: auto;
+  margin-top: auto;
+  margin-right: 100px;
+  margin-left: 100px;
   padding: 5px;
   background-color: rgb(10, 2, 20);
+  display: inline-block;
+
 
 
   }
 
 #image2 {
-    float: left;
-    max-width: 100%;
+    /* float: left; */
+    margin: auto;
+    max-width: auto;
     height: auto;
     padding: 2px;
     border-radius: 5px;
+    display: block;
 
     }
 
@@ -58,7 +64,8 @@ h2 {
   font-family: 'Courgette', cursive;
   text-align: center;
   width: 100%;
-  margin-top: 50px;
+  margin-top: auto-center;
+  margin-left: auto-center;
 
   }
 #image3 {
